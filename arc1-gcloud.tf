@@ -1,6 +1,6 @@
 // Configure the Google Cloud provider
 provider "google" {
-  credentials = "${file("mleblanc-gcloud.json")}"
+  credentials = "${file("YOUR_JSON")}"
   project     = "arc1-208216"
   region      = "us-east1"
 }
