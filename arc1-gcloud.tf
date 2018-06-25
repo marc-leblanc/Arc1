@@ -23,7 +23,7 @@ resource "google_compute_instance" "Arc1" {
   // Local SSD disk
   scratch_disk {
   }
- 
+  
   network_interface {
     network = "default"
 

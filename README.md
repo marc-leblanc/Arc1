@@ -22,4 +22,4 @@ Next - Run terraform apply - this will actually build the VM instances.
 
 06-24-18: 
 
-Current state can deploy 3 VM instances in Google Cloud using terraform on Debian. Next steps, swap out Debian for CentOS because I prefer that and start defining the ansible code needed to apply necessary configs.
+Current state can deploy 3 VM instances in Google Cloud using terraform on Debian. Next steps, swap out Debian for CentOS because I prefer that and start defining the ansible code needed to apply necessary configs. 
