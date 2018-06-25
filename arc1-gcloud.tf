@@ -12,7 +12,7 @@ resource "google_compute_instance" "Arc1" {
   machine_type = "n1-standard-1"
   zone         = "us-east1-b"
   name = "am1host-${count.index}"
-asdasd
+
 
   boot_disk {
     initialize_params {
@@ -23,7 +23,7 @@ asdasd
   // Local SSD disk
   scratch_disk {
   }
-
+ 
   network_interface {
     network = "default"
 
