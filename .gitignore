@@ -1,3 +1,11 @@
 mleblanc-gcloud.json
 terraform.*
 .terraform/
+mleblanc-gcloud.json
+*.json
+mleblanc
+terraform.tfstate.backup
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfstate
+mleblanc-gcloud.json
