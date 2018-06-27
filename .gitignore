@@ -9,3 +9,6 @@ terraform.tfstate
 terraform.tfstate.backup
 terraform.tfstate
 mleblanc-gcloud.json
+mleblanc-gcloud.json
+terraform.tfstate
+terraform.tfstate.backup
